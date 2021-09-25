@@ -1,1 +1,1 @@
-Test and staging environment
+Test environment
